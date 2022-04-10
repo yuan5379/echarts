@@ -22,3 +22,13 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 后台数据
+
+server 文件夹, 使用 node 运行 index.js 文件
+
+`node index,js`
+
+## 效果网站
+
+http://120.27.202.7/#/page
